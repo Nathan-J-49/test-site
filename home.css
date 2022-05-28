@@ -1,0 +1,21 @@
+header{
+	height: 100px;
+	position: relative;
+}
+#logo{
+	height: 70px;
+	margin: 0;
+	left: 10px;
+  position: absolute;
+  top: 50%;
+  -ms-transform: translateY(-50%);
+  transform: translateY(-50%);
+}
+#title{
+	position: absolute;
+	left: 50px;
+	margin 0;
+	top: 50%;
+	-ms-transform: translateY(-50%);
+  transform: translateY(-50%);
+}
